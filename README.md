@@ -12,7 +12,7 @@ The dashboard demonstrates data modeling, Power Query transformations, DAX calcu
 
 ### Dashboard Overview
 
-![Dashboard](screenshots/Portfolio-Overview.png)
+![Dashboard](Screenshots/Portfolio-Overview.png)
 
 ---
 
