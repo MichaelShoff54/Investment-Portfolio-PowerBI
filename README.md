@@ -69,7 +69,7 @@ data/
 
 screenshots/
 
-docs/
+
 ```
 
 ---
