@@ -13,7 +13,8 @@ The dashboard demonstrates data modeling, Power Query transformations, DAX calcu
 ### Dashboard Overview
 
 ![Dashboard](Screenshots/Portfolio-Overview.png)
-
+![Dashboard](Screeshots/Cash-Flow-Transaction-History.png)
+![Dashboard](Screenshots/Individual-Asset-Deep-Dive.png)
 ---
 
 ## Features
