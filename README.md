@@ -40,7 +40,7 @@ The dashboard demonstrates data modeling, Power Query transformations, DAX calcu
 
 ## Data Model
 
-![Model](data-model.png)
+![Model](Screenshots/data-model.png)
 
 ---
 
